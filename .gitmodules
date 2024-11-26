@@ -1,0 +1,7 @@
+[submodule "07_apm/apm_to_docker-compose"]
+	path = 07_apm/apm_to_docker-compose
+	url = https://github.com/hatpub/apm_to_docker-compose
+[submodule "07_compose/dockertext2"]
+	path = 07_compose/dockertext2
+	url = https://github.com/asashiho/dockertext2
+	branch = main
